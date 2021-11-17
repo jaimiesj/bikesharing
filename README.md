@@ -2,7 +2,7 @@
 Data Visualization using Tableau
 
 ## Overview of the analysis
-The purpose of the analysis was to extrapolate pertinent data from NYC Citibike bikeshare to determine what metrics need to be consider to bring it to Des Moines.
+The purpose of the analysis was to extrapolate pertinent data from NYC Citibike bikeshare from August 2019 (https://s3.amazonaws.com/tripdata/index.html) to determine what metrics need to be consider to bring it to Des Moines.
 
 ## Results
 ![NYC Story](https://user-images.githubusercontent.com/88955412/142131846-59a6d7c4-8597-4544-b062-e935c1da7d4c.png)
